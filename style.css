@@ -99,10 +99,7 @@ body{
   .short-para-2{
     font-size: 19px;
   }
-  .bold-text-4{
-    color: #0b7a55;
-    font-size: 24px;
-  }
+  
   .short-para-4{
     color: #0b7a55;
     font-size: 19px;
@@ -334,4 +331,6 @@ body{
     }
 
   }
-  
+  .bold-text-4{
+    font-size: 24px;
+  }
